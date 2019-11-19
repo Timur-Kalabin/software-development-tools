@@ -1,0 +1,10 @@
+{
+    "person": {
+        "name": "timur_kalabin",
+        "email": "t.kalabin@mail.ru",
+        "url": "https://github.com/Timur-Kalabin"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
